@@ -1,0 +1,16 @@
+{
+  "name": "zdatatable-docs",
+  "version": "1.0.1",
+  "description": "Docs for zDataTable power bi visual.",
+  "main": "index.js",
+  "author": "Zaf Alam",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.12.2"
+  }
+}
